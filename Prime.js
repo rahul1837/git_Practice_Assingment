@@ -12,7 +12,7 @@
 
     }
     
-          if(factor ==3){
+          if(factor ==2){
 
             console.log("Prime no.")
            
